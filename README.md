@@ -19,6 +19,11 @@ Para utilizar el programa compilado, simplemente ejecute el archivo `.exe` y pro
 
 Fue desarrollado por Jorge Peñaloza como programador principal.
 
+## Agradecimientos
+
+Quiero expresar mi más sincero agradecimiento al autor original del código de lectura serial en C++. Lamentablemente, se perdió el enlace original y no puedo atribuirle directamente el mérito que merece. Su trabajo ha sido fundamental para el desarrollo de este proyecto y ha beneficiado a muchos estudiantes en su proceso de aprendizaje. Si alguien reconoce el código original o tiene información sobre su autor, por favor, no duden en informarme para poder darle el reconocimiento adecuado.
+
+
 ## Enlace al Repositorio
 
 [Monitoreo PLC Delta en GitHub](https://github.com/Jorge-Penaloza/Monitoreo_PLC_DELTA/)
